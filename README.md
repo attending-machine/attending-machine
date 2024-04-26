@@ -1,10 +1,10 @@
-# Package name
-Package Name
+# Attending Machine
+Attending Machine.
 <pre>
-  pip install independent-machine
+  pip install attending-machine
 </pre>
 Then:
 ```Python
   # Python
-  import independent_machine
+  import attending_machine
 ```
